@@ -1395,4 +1395,12 @@ p.content-bottom__copyright {
     margin-right: 150px;
 	}
 }
+@media screen and (max-width: 400px) {
+	.slider__arrow--left {
+    margin-left: 10px;
+	}
+	.slider__arrow--right {
+    margin-right: 10px;
+	}
+}
 
