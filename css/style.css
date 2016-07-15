@@ -776,12 +776,14 @@ p.content-bottom__copyright {
 	}
 	.slider__arrow--left {
 		float: left;
-		margin-left: 138px;
+		/*margin-left: 138px;*/
+		margin-left: 0;
 		margin-top: 2px;
 	}
 	.slider__arrow--right {
 		float: right;
-		margin-right: 135px;
+		/*margin-right: 135px;*/
+		margin-right: 0;
 		margin-top: 2px;
 	}
 }
@@ -1393,3 +1395,4 @@ p.content-bottom__copyright {
     margin-right: 150px;
 	}
 }
+
