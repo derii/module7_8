@@ -1385,7 +1385,7 @@ p.content-bottom__copyright {
 		margin-bottom: 31px;
 	}	
 }
-@media screen and (max-width: 1590px) {
+@media screen and (min-width: 1590px) {
 	.slider__arrow--left {
     margin-left: 150px;
 	}
